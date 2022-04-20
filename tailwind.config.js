@@ -3,7 +3,10 @@ module.exports = {
   theme: {
     extend: {
       backgroundImage: {
-        'hero': "url('./assets/4.jpg')"
+        'hero': "url('./assets/5.jpg')"
+      },
+      fontFamily : {
+        Merriweather : ['Merriweather'],
       }
     },
   },
