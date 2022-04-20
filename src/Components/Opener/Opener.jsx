@@ -8,7 +8,7 @@ const Opener = () => {
       <section className="opener z-0 text-center mx-auto h-screen bg-hero bg-no-repeat bg-cover bg-center md:bg-contain sm:bg-contain overflow-x-hidden overflow-y-hidden">
           <div className="filteropener bg-emerald-700/40 z-1 h-screen bg-center w-screen fixed xl:w-4/12 xl:left-1/3">
           </div>
-          <div className='containeropener mt-72 mx-auto flex flex-col justify-center items-center gap-y-5 w-screen h-screen fixed '>
+          <div className='containeropener mt-40 mx-auto flex flex-col justify-center items-center gap-y-5 w-screen h-screen fixed '>
 
               {/* <img className='w-16 md:w-32 lg:w-48 object-center    ' src={Img1} alt="" /> */}
               <div>
