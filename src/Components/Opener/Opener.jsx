@@ -14,7 +14,7 @@ const Opener = () => {
               <div>
                   <h3 className='text-white font-bold text-xl'>Kepada yang terhormat</h3>
                   <h3 className='text-white font-bold text-xl'>Saudara/saudari</h3>
-                  <h4 className='judulopener text-5xl text-center text-orange-300 font-Merriweather font-bold my-5'>Yusni</h4>
+                  <h4 className='judulopener text-5xl text-center text-orange-300 font-Merriweather font-bold my-5'>Dummy</h4>
                   <h3 className='text-white font-bold m-3 text-xl'>Pada acara pernikahan kami</h3>
               </div>
               <div>
